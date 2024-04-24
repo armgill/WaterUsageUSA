@@ -8,13 +8,13 @@ We provide water usage data of the U.S. for years 2019 and 2020. Our repository 
 
 # What is in here
 
-##### 1. `Aquastat.csv` - the original dataset used. (WaterUsageUSA/Data/)
+#### 1. `Aquastat.csv` - the original dataset used. (WaterUsageUSA/Data/)
 
-##### 2. `Aquastat_subset.csv` - the subset created from the original dataset. (WaterUsageUSA/Data/)
+#### 2. `Aquastat_subset.csv` - the subset created from the original dataset. (WaterUsageUSA/Data/)
 
-##### 3. `My_Notebook.ipynb` - a python notebook that contains steps on creating the subset from the original dataset. (WaterUsageUSA/Documentation/)
+#### 3. `My_Notebook.ipynb` - a python notebook that contains steps on creating the subset from the original dataset. (WaterUsageUSA/Documentation/)
 
-##### 4. `WaterStressGraph.png` - a graph that is used in this README file (WaterUsageUSA/)
+#### 4. `WaterStressGraph.png` - a graph that is used in this README file (WaterUsageUSA/)
 
 ## How to get started
 To get started, begin by reading this file thorougly. Then, open the folder titled "Documentation" and click `My_Notebook.ipynb`. From there, follow those directions.
